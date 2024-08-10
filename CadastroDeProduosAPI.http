@@ -1,0 +1,6 @@
+@CadastroDeProduosAPI_HostAddress = http://localhost:5151
+
+GET {{CadastroDeProduosAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
